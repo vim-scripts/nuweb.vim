@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=543
+
+NUWEB aims to provide simple features for Literate Programming with LaTeX and any other language. So implement highlight consist in TeX highlight and other simple general features. My way was to treat Scraps like Verbatim highlight more some nice features, like bold @_ grouping.
+
+It works rasonable well with the NUWEB Docs.
